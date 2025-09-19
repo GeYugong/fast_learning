@@ -13,6 +13,6 @@
 ---
 
 ## ✨ 使用方法
-1. 在本地用 **VS Code 或 Obsidian** 编辑笔记
+1. 在本地用 **VS Code** 编辑笔记
 2. 用 **GitHub Desktop 或 Git** 同步到仓库
 3. 每次学习后更新 commit，方便日后复习
